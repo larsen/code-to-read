@@ -12,3 +12,9 @@
 ## Common Lisp
 
 * [cl-ppcre](https://github.com/edicl/cl-ppcre) - Common Lisp regular expression library
+
+## Haskell
+
+* [Scroll](http://joeyh.name/code/scroll/) - Roguelike game developed
+  during the 2015 [7drl](http://7drl.org/about/) challenge. Joey Hess
+  wrote a series of blog posts describing the development of the game.
